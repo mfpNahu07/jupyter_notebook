@@ -4,8 +4,12 @@
 pip install notebook
 
 # Create a folder for the project
+project's name
 
-# Inside the folder create 2 folders "positive" and "negative" 
+# Create a datase folder
+projetc's dataset
+
+# Inside the dataset folder create 2 folders "positive" and "negative" 
 Inside these folders place the images with which the model will be trained.
 
 # Run the notebook:
